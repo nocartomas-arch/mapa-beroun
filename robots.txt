@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://nocartomas-arch.github.io/mapa-beroun/sitemap.xml
